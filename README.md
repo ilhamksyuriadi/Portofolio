@@ -1,2 +1,2 @@
 # Portofolio
-My portofolios with image format
+My portfolios with image format
